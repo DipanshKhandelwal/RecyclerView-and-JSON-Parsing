@@ -1,0 +1,33 @@
+{
+	"myContacts": {
+		"allList": [{
+			"Name": "Name1",
+			"Address": "house1",
+			"PhoneNumber": "1234"
+		}, {
+			"Name": "Name2",
+			"Address": "house2",
+			"PhoneNumber": "2345"
+		}, {
+			"Name": "Name3",
+			"Address": "house3",
+			"PhoneNumber": "3456"
+		}, {
+			"Name": "Name4",
+			"Address": "house4",
+			"PhoneNumber": "4567"
+		}, {
+			"Name": "Name5",
+			"Address": "house5",
+			"PhoneNumber": "5678"
+		}, {
+			"Name": "Name5",
+			"Address": "house5",
+			"PhoneNumber": "6789"
+		}, {
+			"Name": "Name6",
+			"Address": "house6",
+			"PhoneNumber": "7890"
+		}]
+	}
+}
